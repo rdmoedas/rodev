@@ -7,8 +7,8 @@ function Home() {
             <h1>Hello World!</h1>
             <div>
                 <p>Site em desenvolvimento.</p>
-                <a href="https://github.com/rdmoedas">Link do meu github</a>
-                <a href="https://www.linkedin.com/in/rodolfo-santana-57766b47/">Link do meu linkedin</a>
+                <div><a href="https://github.com/rdmoedas">Link do meu github</a></div>
+                <div><a href="https://www.linkedin.com/in/rodolfo-santana-57766b47/">Link do meu linkedin</a></div>
             </div>
             <Contador />
         </div>
