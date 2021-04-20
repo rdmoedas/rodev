@@ -4,8 +4,6 @@ import { useState } from 'react';
 function About() {
     return (
         <body>
-        <link href="https://fonts.googleapis.com/css2?family=Aleo:wght@300&family=Khand:wght@600&display=swap" rel="stylesheet">
-
             <header class="">
                 <div class="">
                     <ul class="header header-frame ">
